@@ -10,24 +10,14 @@
         <mxCell id="e5NHqL3snsI-0nbBZdHb-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
           <mxGeometry height="60" width="30" x="395" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="e5NHqL3snsI-0nbBZdHb-4" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="580" />
-            </Array>
-            <mxPoint x="170" y="330" as="sourcePoint" />
-            <mxPoint x="400" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NIPrTjfx14l3zvago-tk-22" edge="1" parent="1" source="e5NHqL3snsI-0nbBZdHb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="e5NHqL3snsI-0nbBZdHb-5">
+        <mxCell id="NIPrTjfx14l3zvago-tk-22" edge="1" parent="1" source="e5NHqL3snsI-0nbBZdHb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="280" />
               <mxPoint x="120" y="350" />
-              <mxPoint x="280" y="350" />
-              <mxPoint x="280" y="330" />
+              <mxPoint x="260" y="350" />
             </Array>
-            <mxPoint x="260" y="350" as="targetPoint" />
+            <mxPoint x="260" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e5NHqL3snsI-0nbBZdHb-5" parent="1" style="shape=tape;whiteSpace=wrap;html=1;size=1;" value="" vertex="1">
