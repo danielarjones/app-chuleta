@@ -37,6 +37,12 @@
         <mxCell id="e5NHqL3snsI-0nbBZdHb-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="540" y="360" as="geometry" />
         </mxCell>
+        <mxCell id="e5NHqL3snsI-0nbBZdHb-13" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="500" y="140" as="sourcePoint" />
+            <mxPoint x="600" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
